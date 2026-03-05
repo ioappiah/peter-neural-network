@@ -1,10 +1,10 @@
 # Peter Learns: Neural Networks From First Principles to Generalization
 
 **Link to Medium Article (Part 1 – How Neural Networks Actually Learn)**
-*([Medium](#))*
+*([Medium](https://medium.com/@cobena_i))*
 
 **Link to Medium Article (Part 2 – Can Peter Generalize? Overfitting, Validation & Regularization)*
-*(Add link here)*
+*([Medium](https://medium.com/@cobena_i))*
 
 ---
 
